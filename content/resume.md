@@ -13,7 +13,7 @@ Education
 2021 – present
 :   *PhD, Chemistry*, (expected June 2026) University of Michigan
 
-    Instructed by Dr. Dominika Zgid
+    Instructed by [Dr. Dominika Zgid](https://sites.lsa.umich.edu/zgid/)
 
 2016 – 2020
 : 	*BSc, Chemistry*, Sichuan University
