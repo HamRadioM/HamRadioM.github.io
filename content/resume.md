@@ -25,9 +25,6 @@ Experience
 2023 – present
 :	*Research assistant*, Center for Materials Innovation (NSF-MRSEC), University of Michigan
 
-<!-- 2022 – present
-:	Research assistant, Dominika Zgid group, University of Michigan -->
-
 Summer 2023
 :	*Attendee*, Telluride School on Theoretical Chemistry 
 
