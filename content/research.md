@@ -12,10 +12,15 @@ Cross-disciplinary material research
 ---------
 - S. Smolenski, **M. Wen**, Q. Li, et al. Large exciton binding energy in a bulk van der Waals magnet from quasi-1D electronic localization. *Nat. Commun.* (2025). https://doi.org/10.1038/s41467-025-56457-x
 
-- J. J. P. Cooper, J. W. Mitchell, S. Smolenski, **M. Wen**, et al. Influence of Bi alloying on GaAs valence band structure. *Phys. Rev. Materials* (2025). https://doi.org/10.1103/l95h-x9kd
+- J. J. P. Cooper, J. W. Mitchell, S. Smolenski, **M. Wen**, et al. Influence of Bi alloying on GaAs valence band structure. *Phys. Rev. Mater.* (2025). https://doi.org/10.1103/l95h-x9kd
 
 Multibody perturbation theory: *GW* method
 ---------
+- S. Iskakov, C.-N. Yeh, P. Pokhilko, Y. Yu, L. Zhang, G. Harsha, V. Abraham, **M. Wen**, M.
+Wang, J. Adamski, T. Chen, E. Gull, D. Zgid, Green/WeakCoupling: Implementation of Fully
+Self-Consistent Finite-Temperature Many-Body Perturbation Theory for Molecules and
+Solids. *Comp. Phys. Comm.* (2025). https://doi.org/10.1016/j.cpc.2024.109380
+
 - **M. Wen**, V. Abraham, G. Harsha, A. Shee, K. B. Whaley, D. Zgid, Comparing self-consistent *GW*  and vertex corrected *G0W0* accuracy for molecular ionization potentials. *J. Chem. Theo. Comp.* (2024). https://doi.org/10.1021/acs.jctc.3c01279
 
 - G. Harsha, V. Abraham, **M. Wen**, D. Zgid, Quasiparticle and fully self-consistent *GW* methods: An unbiased analysis using gaussian orbitals, *Phys. Rev. B* (2024). https://doi.org/10.1103/PhysRevB.110.235146

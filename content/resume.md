@@ -38,7 +38,7 @@ Summer 2022
 :	*Research assistant*, Sichuan University (instructed by Dr. Menglong Li)
 
 Summer 2019
-:	*Research intern*, Pennsylvania State University (instructed by Dr. Gerald Knizia)
+:	*Research intern*, Pennsylvania State University (instructed by [Dr. Gerald Knizia](https://science.psu.edu/chem/people/guk15))
 
 
 Selected awards
