@@ -69,7 +69,7 @@ params:
       
       I am also interested in applying machine learning to electronic-structure problems.
 
-    # imageURL: "/images/ig/head_shot.jpg"
+    imageURL: "/images/ig/head_shot.jpg"
     imageWidth: 256
     imageHeight: 256
     imageTitle: my profile
