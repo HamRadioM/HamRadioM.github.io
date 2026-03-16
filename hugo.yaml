@@ -63,11 +63,11 @@ params:
     subtitle: |
       I am a PhD candidate at the University of Michigan, 
       
-      working in computational physics and chemistry.
+      working on computational physics and chemistry.
 
       My research focuses on developing theoretical methods for electron correlation. 
       
-      I am also interested in applying machine learning to electronic-structure problems.
+      I am also interested in the intersection of machine learning and electronic structure.
 
     imageURL: "/images/ig/head_shot.jpg"
     imageWidth: 256

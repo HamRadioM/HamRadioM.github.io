@@ -23,7 +23,7 @@ Education
 Experience 
 ---------
 2023 – present
-:	*Research assistant*, Center for Materials Innovation (NSF-MRSEC), University of Michigan
+:	*Research assistant*, [Center for Materials Innovation (NSF-MRSEC)](https://mrsec.umich.edu/), University of Michigan
 
 Summer 2023
 :	*Attendee*, Telluride School on Theoretical Chemistry 
