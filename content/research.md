@@ -3,7 +3,7 @@ title: "Selected projects"
 layout: "research"
 # url: "/archives"
 summary: "research"
-date: "2025-12-29"
+date: "2026-04-27"
 ---
 
 See the comprehensive list of publications on my [Google Scholar](https://scholar.google.com/citations?user=t7HA5-sAAAAJ&hl=en).
@@ -16,6 +16,8 @@ Cross-disciplinary material research
 
 Multibody perturbation theory: *GW* method
 ---------
+- **M. Wen**, G. Harsha, D. Zgid, Dynamically Corrected Bethe-Salpeter Equation Solver for Self-consistent *GW* Reference on the Matsubara Frequency Axis. *arXiv* (2026). https://arxiv.org/abs/2604.22187
+
 - S. Iskakov, C.-N. Yeh, P. Pokhilko, Y. Yu, L. Zhang, G. Harsha, V. Abraham, **M. Wen**, M.
 Wang, J. Adamski, T. Chen, E. Gull, D. Zgid, Green/WeakCoupling: Implementation of Fully
 Self-Consistent Finite-Temperature Many-Body Perturbation Theory for Molecules and
