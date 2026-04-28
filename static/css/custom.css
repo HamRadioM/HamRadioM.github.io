@@ -1,3 +1,172 @@
+:root {
+  /* --font-body: "Georgia", Georgia, serif; */
+  --font-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-heading: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* --font-heading: "Georgia", Georgia, serif; */
+  /* --font-heading: "Avenir Next", "Segoe UI", sans-serif; */
+  --font-ui: "Avenir Next", "Segoe UI", sans-serif;
+  --font-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
+  --size-body: 1.0rem;
+  --size-ui: 1.1rem;
+  --size-code: 0.92rem;
+  --size-caption: 0.82rem;
+
+  --size-h1: 2.5rem;
+  --size-h2: 1.1rem;
+  --size-h3: 1.0rem;
+  --size-h4: 1.0rem;
+  --size-h5: 1.0rem;
+  --size-h6: 1.0rem;
+
+  --bg-color: #ffffff;
+}
+
+html,
+body,
+.main,
+.post-content,
+p,
+li,
+blockquote {
+  font-family: var(--font-body) !important;
+  font-size: var(--size-body);
+  line-height: 1.75;
+}
+
+html,
 body {
-  background: red !important;
+  background-color: var(--bg-color) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.profile .profile_inner h1 {
+  font-family: var(--font-heading) !important;
+}
+
+body {
+  font-size: var(--size-body);
+  line-height: 1.75;
+}
+
+h1,
+.post-title,
+.profile .profile_inner h1 {
+  font-size: var(--size-h1);
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: var(--size-h2);
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: var(--size-h3);
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: var(--size-h4);
+}
+
+h5 {
+  font-size: var(--size-h5);
+}
+
+h6 {
+  font-size: var(--size-h6);
+}
+
+.logo a,
+#menu a,
+.button,
+button {
+  font-family: var(--font-ui) !important;
+  font-size: var(--size-ui);
+}
+
+.logo a,
+#menu a {
+  font-size: var(--size-ui);
+}
+
+#menu a {
+  text-decoration: none;
+}
+
+#menu a:hover span,
+#menu a:focus-visible span,
+#menu .active {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.3em;
+}
+
+#menu .active {
+  border-bottom: none !important;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: var(--font-mono) !important;
+  font-size: var(--size-code);
+}
+
+.caption {
+  font-size: var(--size-caption);
+}
+
+.main .profile img {
+  width: clamp(240px, 28vw, 300px);
+  height: auto;
+  aspect-ratio: 6 / 7;
+  object-fit: cover;
+  border-radius: 5% !important;
+}
+
+.main .profile .profile-layout {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(320px, 640px);
+  align-items: center;
+  gap: clamp(24px, 4vw, 56px);
+  text-align: left;
+}
+
+.main .profile .profile-media {
+  justify-self: center;
+}
+
+.main .profile .profile-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.main .profile .profile-content .social-icons {
+  justify-content: flex-start;
+}
+
+@media (max-width: 900px) {
+  .main .profile .profile-layout {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .main .profile .profile-content {
+    align-items: center;
+  }
+
+  .main .profile .profile-content .social-icons {
+    justify-content: center;
+  }
 }

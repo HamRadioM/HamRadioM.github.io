@@ -7,7 +7,7 @@ summary: "contact"
 
 
 Work e-mail
-:   wenm@umich.edu
+:   `wenm@umich.edu`
 
 Personal e-mail
-:   wenming2026@gmail.com
+:   `wenming2026@gmail.com`

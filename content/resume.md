@@ -8,8 +8,8 @@ date: "2025-12-29"
 
 Born in 1998, Sichuan, China.
 
-Education 
 ---------
+### Education 
 2021 – present
 :   *PhD, Chemistry*, (expected June 2026) University of Michigan
 
@@ -20,8 +20,8 @@ Education
 
     Instructed by Dr. Ying Xue
 
-Experience 
 ---------
+### Experience 
 2023 – present
 :	*Research assistant*, [Center for Materials Innovation (NSF-MRSEC)](https://mrsec.umich.edu/), University of Michigan
 
@@ -40,9 +40,8 @@ Summer 2022
 Summer 2019
 :	*Research intern*, Pennsylvania State University (instructed by [Dr. Gerald Knizia](https://science.psu.edu/chem/people/guk15))
 
-
-Selected awards
 ---------
+### Selected awards
 
 2025
 :   Margaret & Herman Sokol Graduate Sp/Su Research Fellowship	
@@ -52,4 +51,4 @@ Selected awards
 
 2024
 :   The Hillig Family Chemistry Graduate Student Award
-
+---------

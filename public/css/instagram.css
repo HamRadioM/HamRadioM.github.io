@@ -4,15 +4,20 @@
   gap: 12px;
 }
 
-.ig-grid img {
+.ig-grid .ig-thumb img {
   width: 100%;
   height: auto;
   /* border-radius: 8px; */
   transition: transform 0.2s ease;
 }
 
-.ig-grid img:hover {
+/* .ig-grid .ig-thumb img:hover {
   transform: scale(1.01);
+} */
+
+.ig-grid .ig-thumb {
+  display: block;
+  cursor: zoom-in;
 }
 
 .ig-grid figure {

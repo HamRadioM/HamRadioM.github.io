@@ -9,12 +9,15 @@
   </div>
 
   <div class="ig-grid">
-  {{ range .Site.Data.instagram.posts }}
+  {{ range $i, $post := .Site.Data.instagram.posts }}
     <div class="ig-item">
-      <a href="{{ .url }}" target="_blank" rel="noopener">
-        <img src="{{ .image }}" alt="{{ .caption }}" />
+      <a class="ig-thumb" href="{{ $post.image }}" target="_blank" rel="noopener" aria-label="Open enlarged image in new page">
+        <img src="{{ $post.image }}" alt="{{ with $post.caption }}{{ . }}{{ else }}Photo {{ add $i 1 }}{{ end }}" />
       </a>
-      <div class="caption">{{ .caption }}</div>
+
+      {{ with $post.caption }}
+      <div class="caption">{{ . }}</div>
+      {{ end }}
     </div>
   {{ end }}
   </div>

@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.svg"
+    favicon16x16: "/favicon.svg"
+    favicon32x32: "/favicon.svg"
+    apple_touch_icon: "/favicon.svg"
+    safari_pinned_tab: "/favicon.svg"
 
   label:
     text: "Ming Wen"
@@ -61,17 +61,21 @@ params:
     enabled: true # needs to be explicitly set
     title: Ming Wen
     subtitle: |
-      I am a PhD candidate at the University of Michigan, 
-      
-      working on computational physics and chemistry.
+      &nbsp;&nbsp;&nbsp;&nbsp;PhD candidate
 
-      My research focuses on developing theoretical methods for electron correlation. 
-      
-      I am also interested in the intersection of machine learning and electronic structure.
+      &nbsp;&nbsp;&nbsp;&nbsp;Department of Chemistry
+
+      &nbsp;&nbsp;&nbsp;&nbsp;University of Michigan
+
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
+      *My research focuses on developing theoretical methods to describe electron correlation.*
+
+      &nbsp;&nbsp;&nbsp;&nbsp;
 
     imageURL: "/images/ig/head_shot.jpg"
-    imageWidth: 256
-    imageHeight: 256
+    imageWidth: 300
+    imageHeight: 350
     imageTitle: my profile
     buttons:
       # - name: Posts
@@ -91,7 +95,7 @@ params:
       url: "https://scholar.google.com/citations?user=t7HA5-sAAAAJ&hl=en"
     - name: github
       url: "https://github.com/ham-radio-72"
-    - name: github
+    - name: other
       url: "https://github.com/HamRadioM"
     - name: instagram
       url: "https://instagram.com/wming72"
