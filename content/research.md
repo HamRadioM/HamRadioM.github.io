@@ -3,7 +3,7 @@ title: "Research projects"
 layout: "research"
 # url: "/archives"
 summary: "research"
-date: "2026-04-28"
+date: "2026-05-05"
 ---
 
 See the comprehensive list of publications on my [Google Scholar](https://scholar.google.com/citations?user=t7HA5-sAAAAJ&hl=en).
@@ -18,7 +18,9 @@ See the comprehensive list of publications on my [Google Scholar](https://schola
 - S. Smolenski, **M. Wen**, Q. Li, et al. Large exciton binding energy in a bulk van der Waals magnet from quasi-1D electronic localization. *Nat. Commun.* (2025). https://doi.org/10.1038/s41467-025-56457-x
 
 ---------
-### Multibody perturbation theory: *GW* method
+### Many-body perturbation theory: *GW* method
+
+- M. Wang, **M. Wen**, P. Pokhilko, C.-N. Yeh, M. A. Morales, D. Zgid. Self-consistent vertex corrected *GW* with static and dynamic screening using tensor hypercontraction: assessment of molecular ionization potentials. *arXiv* (2026). https://arxiv.org/abs/2604.25581
 
 - **M. Wen**, G. Harsha, D. Zgid, Dynamically Corrected Bethe-Salpeter Equation Solver for Self-consistent *GW* Reference on the Matsubara Frequency Axis. *arXiv* (2026). https://arxiv.org/abs/2604.22187
 
